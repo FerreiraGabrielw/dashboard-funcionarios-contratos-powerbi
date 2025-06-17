@@ -22,6 +22,7 @@ Este projeto consiste em um dashboard analítico desenvolvido em **Power BI** pa
 
 * `data/`: Bases de dados Excel utilizadas.
 * `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
+* `quarto/`: Arquivo .qmd e sua versão HTML renderizada.
 * `README.md`: Este documento.
 * `LICENSE`: Licença do projeto (MIT License).
 
