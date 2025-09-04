@@ -1,38 +1,37 @@
-# Projeto: Dashboard de Análise de Gestão de Recursos Humanos e Performance de Contratos
+# Project: Human Resources Management and Contract Performance Analysis Dashboard
 
-![Thumbnail do Dashboard](powerbi/capa.png)
+![Dashboard Thumbnail](powerbi/capa.png)
 
-
-### ➡️ Análise Detalhada e Dashboard Interativo no Meu Portfólio:
-[Acesse a página completa do projeto aqui](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/1DashboardFuncionarios/Projeto1DA.html)
-
----
-
-## Sobre o Projeto
-
-Este projeto consiste em um dashboard analítico desenvolvido em **Power BI** para oferecer uma visão sobre a força de trabalho e a performance de contratos de uma organização. O foco é identificar e gerenciar contratos de alto valor e sua criticidade, apoiando decisões estratégicas em RH e otimização de operações.
-
-## Tecnologias e Processo
-
-* **Ferramentas**: Power BI Desktop, Microsoft Excel (fontes de dados).
-* **ETL**: Dados extraídos de bases Excel, transformados no Power Query (M) e modelados para análise.
-* **Insights Chave**: Identificação de predominância de terceirizados, concentração de valor em contratos críticos e diferenciação de clientes estratégicos.
-
-## Conteúdo do Repositório
-
-* `data/`: Bases de dados Excel utilizadas.
-* `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
-* `quarto/`: Arquivo .qmd e sua versão HTML renderizada.
-* `README.md`: Este documento.
-* `LICENSE`: Licença do projeto (MIT License).
-
-## Como Visualizar
-
-* **Online**: [Acesse o dashboard publicado no Power BI Service](https://app.powerbi.com/groups/me/reports/76e35eaf-c92c-4671-9f9d-cad29ce49328/ReportSection?experience=power-bi)
-* **Localmente**: Faça o download do arquivo `.pbix` na pasta `powerbi/` e abra-o com o Power BI Desktop.
+### ➡️ Detailed Analysis and Interactive Dashboard in My Portfolio:
+[Access the full project page here](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/1DashboardFuncionarios/Projeto1DA.html)
 
 ---
 
-### Licença
+## About the Project
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+This project consists of an analytical dashboard developed in **Power BI** to provide insight into the workforce and contract performance of an organization. The focus is on identifying and managing high-value contracts and their criticality, supporting strategic decisions in HR and operations optimization.
+
+## Technologies and Process
+
+*   **Tools**: Power BI Desktop, Microsoft Excel (data sources).
+*   **ETL**: Data extracted from Excel bases, transformed in Power Query (M) and modeled for analysis.
+*   **Key Insights**: Identification of outsourced employee predominance, value concentration in critical contracts, and differentiation of strategic clients.
+
+## Repository Content
+
+*   `data/`: Used Excel database files.
+*   `powerbi/`: Power BI dashboard `.pbix` file.
+*   `quarto/`: `.qmd` file and its rendered HTML version.
+*   `README.md`: This document.
+*   `LICENSE`: Project license (MIT License).
+
+## How to View
+
+*   **Online**: [Access the published dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/76e35eaf-c92c-4671-9f9d-cad29ce49328/ReportSection?experience=power-bi)
+*   **Locally**: Download the `.pbix` file from the `powerbi/` folder and open it with Power BI Desktop.
+
+---
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
